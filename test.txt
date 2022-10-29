@@ -1,0 +1,1 @@
+clien.net##.aside > div[class*="_"][class^="side_p"]
