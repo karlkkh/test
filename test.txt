@@ -1,1 +1,12 @@
+[uBlock Origin]
+! Title: test
+! Description: test for uBlock Origin. 
+! Version: 1
+! Expires: 30 day
+! Homepage: test
+! Support: test
+! License: test
+!
+! Version must be UTC format.
+!
 clien.net##.aside > div[class*="_"][class^="side_p"]
